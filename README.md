@@ -117,16 +117,6 @@ Replace `192.168.1.5` with your actual system IP. This makes it available only o
 
 
 
-### 🔑 Login Page
-
-![Login Page](https://fakeimg.pl/400x250/?text=Login+Page\&font=lobster)
-
-### 🏠 Dashboard (After Login)
-
-![Dashboard](https://fakeimg.pl/400x250/?text=Dashboard\&font=lobster)
-
----
-
 ## 📦 Tech Stack
 
 * **Language:** PHP (vanilla)
